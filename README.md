@@ -18,7 +18,7 @@ To install HRMCSU, please follow the steps below:
 
     Ensure you have a web server (e.g., Apache, Nginx) and PHP 7.4 or higher installed.
     Clone the repository to your desired location within the web server's root directory.
-    Set up your database by importing the hrmcsu.sql file into your MySQL/MariaDB server.
+    Set up your database by importing the .sql file into your MySQL/MariaDB server.
     Configure your .env file with the appropriate database credentials and base URL for the system.
     Run composer install to install PHP dependencies.
     Access the HRMCSU panel through your web browser to complete the setup.
