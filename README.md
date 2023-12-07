@@ -11,6 +11,7 @@ Features
     Recruitment Module: Streamlines the hiring process from job posting to candidate selection.
     Performance Evaluation: Facilitates periodic employee performance reviews and feedback collection.
 
+#PLEASE CHECKOUT OUR END USER GUIDE FOR COMPLETE FUNCTIONALITIES OF OUR PANEL WITH SCREENSHOTS AND HIGHLIGHTED AREAS INSIDE FIGURES
 
 # Installation
 
