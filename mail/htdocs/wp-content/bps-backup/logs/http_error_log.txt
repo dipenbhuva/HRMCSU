@@ -1,0 +1,525 @@
+BPS SECURITY LOG
+=================
+=================
+
+[403 GET Request: May 14, 2020 3:15 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/media-new.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-150x150.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:15 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:16 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:16 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:16 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:16 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 14, 2020 3:17 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:02 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:02 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:02 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:02 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:02 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 15, 2020 12:03 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 73.17.123.226
+Host Name: c-73-17-123-226.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.17.123.226
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/customize.php?theme=bizberg&return=http%3A%2F%2Fnortheastern.rf.gd%2Fwp-admin%2Fthemes.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 19, 2020 3:58 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 73.186.87.67
+Host Name: c-73-186-87-67.hsd1.ma.comcast.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 73.186.87.67
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/contact-us/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+[403 GET Request: May 28, 2020 4:20 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: WPADMIN-SBR
+Solution: https://forum.ait-pro.com/forums/topic/security-log-event-codes/
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/wp-admin/upload.php
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:19 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: May 28, 2020 8:20 pm]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/?page_id=174&pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: June 4, 2020 9:20 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/programs/team-development/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+[403 GET Request: June 4, 2020 9:20 am]
+BPS: 4.0
+WP: 5.4.1
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 72.74.242.21
+Host Name: pool-72-74-242-21.bstnma.fios.verizon.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 72.74.242.21
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://northeastern.rf.gd/programs/team-development/?pagelayer-iframe=1&pagelayer-live=1
+REQUEST_URI: /wp-content/uploads/2020/05/chat-300x167.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
